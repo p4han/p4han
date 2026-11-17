@@ -21,6 +21,6 @@ I write low-level, performance-sensitive code, mostly in Rust.
 | Data      | Serde                            |
 | Build     | Cargo                            |
 
-## Languages
+## Links
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p4han&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dea584&text_color=c9d1d9" width="400" alt="Top languages" />
+- [guns.lol/p4han](https://guns.lol/p4han)
